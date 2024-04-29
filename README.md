@@ -548,6 +548,12 @@ Abut.php
 ```
 ## Hasil Run
 
+![php oop](https://github.com/NurkholikSafrudin/lab2_php_dasar/assets/149698766/68480531-b971-4421-bc7a-3b3f22a98846)
+
+![oop2](https://github.com/NurkholikSafrudin/lab2_php_dasar/assets/149698766/f7320393-5196-4d65-9134-9a53357fa2dd)
+
+## Sekian Terima Kasih
+
 
 
 
