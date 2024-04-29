@@ -1,8 +1,13 @@
 ## Tugas Pemograman Web 2
+
 Nama : Nurkholik Safrudin
+
 Nim : 312210507
+
 Kelas : Ti.22.A5
+
 DOSEN PENGAMPU : AGUNG NUGROHO S.KOM., M.KOM
+
 MATA KULIAH : PEMOGRAMAN WEB 2
 
 ## Lab2_php_Dasar
@@ -116,8 +121,11 @@ MATA KULIAH : PEMOGRAMAN WEB 2
 ```
 
 ## hasil run
+
 ![Screenshot (154)](https://github.com/NurkholikSafrudin/lab2_php_dasar/assets/149698766/dcae8aa1-da6a-40eb-a010-08e78554bea5)
+
 ![output php dasar 3](https://github.com/NurkholikSafrudin/lab2_php_dasar/assets/149698766/6403163d-3a2f-4a7b-97c8-890394a1e056)
+
 ![output php dasar 2](https://github.com/NurkholikSafrudin/lab2_php_dasar/assets/149698766/e18b6166-f0d8-4506-bd33-203719b5d9d2)
 
 ## Tugas From Input
