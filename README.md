@@ -180,7 +180,7 @@ MATA KULIAH : PEMOGRAMAN WEB 2
 </html>
 ```
 ## Hasil Run
-
+![Screenshot (155)](https://github.com/NurkholikSafrudin/lab2_php_dasar/assets/149698766/8cff80ba-84db-41fc-9fc0-9a329898c1c3)
 
 ## Database
 ```
